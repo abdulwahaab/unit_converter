@@ -1,6 +1,6 @@
-# unit_converter
+# Unit Converter
 
-A unit converter developed using flutter.
+A simple unit converter app developed using flutter. Right now only weight units will work.
 
 ## Screenshots
 <p float="left">
